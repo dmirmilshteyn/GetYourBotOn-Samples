@@ -1,3 +1,4 @@
+// Original source: http://hobbycomponents.com/index.php/arduino-jy-mcu-bluetooth-wireless-serial-port-module.html
 /* FILE:    ARD_BLUETOOTH_SERIAL_MODULE_HCARDU0004_Example.pde
    DATE:    17/07/12
    VERSION: 0.2
